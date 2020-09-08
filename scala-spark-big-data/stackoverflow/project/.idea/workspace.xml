@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffc4f2f-3915-4d0a-927b-490444455d46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/project/MOOCSettings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/project/StudentTasks.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/resources/scalashop/scala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/HorizontalBoxBlur.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/Interfaces.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/PhotoCanvas.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/ScalaShop.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/VerticalBoxBlur.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/main/scala/scalashop/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../parprog1/src/test/scala/scalashop/BlurSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../progfun2/codecs/src/main/scala/codecs/codecs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../progfun2/codecs/src/main/scala/codecs/codecs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/definedTests/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/definedTests/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/test/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/test/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/streams/test/test/_global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/streams/test/test/_global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wikipedia/target/test-reports/TEST-wikipedia.WikipediaSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../wikipedia/target/test-reports/TEST-wikipedia.WikipediaSuite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hBH9MtkovZDhfMkGCSHCPKniUk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffc4f2f-3915-4d0a-927b-490444455d46" name="Default Changelist" comment="" />
+      <created>1599477412826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599477412826</updated>
+      <workItem from="1599477428881" duration="13000" />
+    </task>
+    <servers />
+  </component>
+</project>

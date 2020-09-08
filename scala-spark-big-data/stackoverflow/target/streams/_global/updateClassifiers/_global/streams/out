@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/user0/Developer/progfun-scala/scala-spark-big-data/stackoverflow/"), "stackoverflow")...
+[debug] Done updating ProjectRef(uri("file:/Users/user0/Developer/progfun-scala/scala-spark-big-data/stackoverflow/"), "stackoverflow")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
